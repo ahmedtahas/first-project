@@ -1,0 +1,1 @@
+checks if given int is in given position
